@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts"
+  message: "Welcome to EazyBank accounts Access Using GIT"
   contactDetails:
     name: "Rajesh Local"
     email: "Local rajesh9616@gmail.com"
