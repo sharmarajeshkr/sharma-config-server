@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts Access Using GIT"
   contactDetails:
-    name: "Rajesh Production"
+    name: "Rajesh Production Test"
     email: "{cipher}e82ec042a96d5f41f700b2d97d5d5c5eab3c70b17e5d45384b4dfda2073d428ceaa9fe402849db44744316d661bbbd0a"
   onCallSupport:
       -(91)9789824976
