@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank accounts related prod APIs Using Git"
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@eazybank.com"
+    name: "Rajesh Sharma - Product Owner QA"
+    email: "rajesh9616@gmail.com"
   onCallSupport:
-    - (310) 875-4367
-    - (201) 236-1267
+    - (91) 9789824976
+    - (91) 9789824976

@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related prod APIs Using Git"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: "Rajesh Sharma - Product Owner Prod"
+    email: "rajesh9616@gmail.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - (91) 9789824976
+    - (91) 9789824976

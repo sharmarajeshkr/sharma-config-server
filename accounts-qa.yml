@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related prod APIs Using Git"
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "Rajesh Sharma - Product Owner QA"
+    email: "rajesh9616@gmail.com"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - (91) 9789824976
+    - (91) 9789824976

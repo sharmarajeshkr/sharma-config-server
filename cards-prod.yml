@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank accounts related prod APIs Using Git"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    name: "Rajesh Sharma - Product Owner Prod"
+    email: "rajesh9616@gmail.com"
   onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    - (91) 9789824976
+    - (91) 9789824976
