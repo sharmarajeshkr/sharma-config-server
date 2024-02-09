@@ -1,10 +1,11 @@
 build:
-  version: "1.0"
+  version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts Access Using GIT"
+  message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "Rajesh Local"
-    email: "{cipher}268c3f96cdaabe707ed5abb0568ded86df59eb8760a56fc251b3fb958a7baf6c1781b00defbdf7369218fc46b4609a0d"
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
   onCallSupport:
-      -(91)9789824976
+    - (555) 555-1234
+    - (555) 523-1345

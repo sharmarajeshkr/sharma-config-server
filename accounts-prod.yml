@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts Access Using GIT"
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Rajesh Production Test"
-    email: "{cipher}e82ec042a96d5f41f700b2d97d5d5c5eab3c70b17e5d45384b4dfda2073d428ceaa9fe402849db44744316d661bbbd0a"
+    name: "Reine Aishwarya - Product Owner"
+    email: "aishwarya@eazybank.com"
   onCallSupport:
-      -(91)9789824976
-
+    - (453) 392-4829
+    - (236) 203-0384
