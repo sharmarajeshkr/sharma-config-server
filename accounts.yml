@@ -2,10 +2,17 @@ build:
   version: "3.0"
 
 accounts:
+<<<<<<< HEAD
   message: "Welcome to EazyBank accounts related prod APIs Using Git"
   contactDetails:
     name: "Rajesh Sharma - Product Owner Default"
     email: "rajesh9616@gmail.com"
+=======
+  message: "Welcome to EazyBank accounts related to local APIs Local from GIT"
+  contactDetails:
+    name: "Rajesh Sharma - Developer"
+    email: "rajsh9616@gmail.com"
+>>>>>>> d918893c20288c7d25c2126ed817e41b22a873ed
   onCallSupport:
     - (91) 9789824976
     - (91) 9789824976
